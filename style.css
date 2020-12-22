@@ -1,0 +1,35 @@
+.navbar {
+    background-color: grey;
+    background-position: top;
+}
+
+body {
+    background-image: linear-gradient(to right, salmon, blue);
+
+}
+
+.master {
+    background-image: url("background.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+#agency {
+    background-color: cornsilk;
+    height: 300px;
+    padding: 50px;
+    text-align: center;
+}
+
+#boxhome {
+
+}
+
+.card {
+    border: black;
+    border-style: solid;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+}
