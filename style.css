@@ -3,6 +3,11 @@
     background-position: top;
 }
 
+.navbar-brand img{
+    max-width:70%;
+    height:auto;
+}
+
 body {
     background-image: linear-gradient(to right, salmon, blue);
 }
