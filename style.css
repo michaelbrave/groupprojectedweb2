@@ -19,7 +19,7 @@ body {
 }
 
 #agency {
-    background-color: cornsilk;
+    background-color: lightgoldenrodyellow;
     height: 400px;
     padding: 50px;
     text-align: center;
@@ -37,4 +37,23 @@ body {
     margin: 5px;
     display: flex;
     justify-content: space-between;
+}
+
+#quote-area {
+    background-color: white;
+    padding: 50px;
+}
+
+.quotehome {
+    min-height: 400px;
+}
+
+.quote {
+    font-size: larger;
+    padding: 25px;
+    align-content: left;
+}
+
+.quote-body {
+    height: 200px;
 }
