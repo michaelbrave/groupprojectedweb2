@@ -23,7 +23,8 @@ body {
 }
 
 #boxhome {
-
+    float:none;
+    margin:auto;
 }
 
 .card {
